@@ -16,7 +16,9 @@
 
 I'm **Muhammad Rehan Saeed**, a driven market analyst and developer from **Islamabad, Pakistan**, studying at **NUML University**. My world revolves around financial markets — crypto, forex, and everything in between.
 
-I started building trading bots and market tools not just to automate ideas, but to deeply understand how markets breathe.
+I started building trading bots and market tools not just to automate ideas, but to deeply understand how markets breathe. 
+
+Currently, I am expanding my arsenal by integrating **Generative AI and LLM Agents** into algorithmic trading to create smarter, autonomous market intelligence systems.
 
 ---
 
@@ -28,6 +30,20 @@ I started building trading bots and market tools not just to automate ideas, but
 | 💱 Forex Trading | Price Action · ICT · Smart Money Concepts |
 | 🤖 Trading Bots | Python · Telegram API · Market Automation |
 | 📈 Technical Analysis | Chart Patterns · Market Structure · S&R |
+| 🧠 AI Agents & GenAI | LangChain · LLM APIs (Groq/OpenAI) · Prompt Engineering |
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Telegram_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</div>
 
 ---
 
@@ -46,6 +62,16 @@ When I reach professional mastery in crypto, forex, and algorithmic trading — 
 > From Islamabad to the world — one candle at a time. 🕯️
 
 ---
+
+## 📫 Let's Connect
+
+<div align="center">
+  <a href="mailto:rehansaeedjutt@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br>
 
 <div align="center">
 
